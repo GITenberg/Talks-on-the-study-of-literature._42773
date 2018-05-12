@@ -1,0 +1,38 @@
+_repo: Talks-on-the-study-of-literature._42773
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42773-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Bates, Arlo
+    birthdate: 1850
+    deathdate: 1918
+    gutenberg_agent_id: '2784'
+    url: http://www.gutenberg.org/2009/agents/2784
+    wikipedia: http://en.wikipedia.org/wiki/Arlo_Bates
+description: American-born critic Arlo Bates started his career as a journalist and
+  editor, but later turned his efforts to analyzing and championing English literature,
+  which led to him becoming a professor of English at the Massachusetts Institute
+  of Technology. This collection brings together a series of enlightening lectures
+  that Bates presented about literature during his tenure. It offers a fascinating
+  glimpse into the ethos behind literary studies at the dawn of the twentieth century.
+gutenberg_issued: '2013-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42773'
+  lccn: 04013796
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- Study and teaching'
+- !lcc 'PN'
+tableOfContents: What literature is -- Literary expression -- The study of literature
+  -- Why we study literature -- False methods -- Methods of study -- The language
+  of literature -- The intangible language -- The classics -- The value of the classics
+  -- The greater classics -- Contemporary literature -- New books and old -- Fiction
+  -- Fiction and life -- Poetry -- The texture of poetry -- Poetry and life.
+title: Talks on the study of literature.
+url: http://www.gutenberg.org/ebooks/42773
