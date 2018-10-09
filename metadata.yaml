@@ -31,6 +31,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Literature -- Study and teaching'
 - !lcc 'PN'
+- GITenberg
 tableOfContents: What literature is -- Literary expression -- The study of literature
   -- Why we study literature -- False methods -- Methods of study -- The language
   of literature -- The intangible language -- The classics -- The value of the classics
